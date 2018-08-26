@@ -24,6 +24,7 @@ public class HelloApplication {
 		public static void main(String[] args) {//这个应用的入口
 			SpringApplication.run(HelloApplication.class, args);
 		}
+		
 	
 /*	public static void main(String[] args) {//这个应用的入口
 		SpringApplication springApplication = new SpringApplication(HelloApplication.class);
